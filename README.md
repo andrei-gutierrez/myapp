@@ -1,2 +1,2 @@
 # myapp
-apptesting
+This apptesting for training purposes
